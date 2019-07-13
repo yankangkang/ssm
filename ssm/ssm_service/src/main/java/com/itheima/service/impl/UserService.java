@@ -71,6 +71,8 @@ public class UserService implements IUserService {
 
     @Override
     public List<Role> findAllOtherRole(String userId) throws Exception {
+        System.out.println("devddddddd");
         return userDao.findAllOtherRole(userId);
+
     }
 }
