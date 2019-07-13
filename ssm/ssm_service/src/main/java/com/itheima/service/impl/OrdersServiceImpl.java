@@ -26,11 +26,6 @@ public class OrdersServiceImpl implements IOrdersService {
 
 
         System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-
-
         return ordersDao.findById(id);
     }
 }
