@@ -15,6 +15,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ssm" target="1.5" />
+      <module name="ssm_1" target="1.8" />
       <module name="ssm_dao" target="1.8" />
       <module name="ssm_domain" target="1.8" />
       <module name="ssm_service" target="1.8" />

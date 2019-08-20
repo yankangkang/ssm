@@ -25,30 +25,7 @@ public class OrdersServiceImpl implements IOrdersService {
     public Orders findById(String id) throws Exception {
 
 
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
-        System.out.println("dev5");
+
         System.out.println("dev5");
         System.out.println("dev5");
         System.out.println("dev5");
